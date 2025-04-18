@@ -1,0 +1,47 @@
+[
+  {
+    "first_name": "Karan",
+    "last_name": "Mehta",
+    "specialization": "Orthopedics",
+    "license_number": "DOC98765",
+    "contact_number": "8001234567",
+    "email": "karan.mehta@example.com",
+    "years_of_experience": 10
+  },
+  {
+    "first_name": "Pooja",
+    "last_name": "Sharma",
+    "specialization": "Dermatology",
+    "license_number": "DOC24680",
+    "contact_number": "8223344556",
+    "email": "pooja.sharma@example.com",
+    "years_of_experience": 7
+  },
+  {
+    "first_name": "Raghav",
+    "last_name": "Nair",
+    "specialization": "Gastroenterology",
+    "license_number": "DOC13579",
+    "contact_number": "8334455667",
+    "email": "raghav.nair@example.com",
+    "years_of_experience": 9
+  },
+  {
+    "first_name": "Sneha",
+    "last_name": "Bose",
+    "specialization": "Psychiatry",
+    "license_number": "DOC86420",
+    "contact_number": "8445566778",
+    "email": "sneha.bose@example.com",
+    "years_of_experience": 5
+  },
+  {
+    "first_name": "Amit",
+    "last_name": "Chowdhury",
+    "specialization": "General Medicine",
+    "license_number": "DOC11223",
+    "contact_number": "8556677889",
+    "email": "amit.chowdhury@example.com",
+    "years_of_experience": 14
+  }
+]
