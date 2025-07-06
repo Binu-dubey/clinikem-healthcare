@@ -30,7 +30,7 @@ This repository contains the backend system for **Clinikem Healthcare**, develop
 ## 🧰 Tech Stack
 
 - **Backend**: Django, Django REST Framework
-- **Database**: SQLite (default) – can be configured to PostgreSQL or MySQL
+- **Database**: PostgreSQL 
 - **Authentication**: DRF Token Authentication
 - **Frontend (Basic)**: HTML + Django Templates (for mapping interface)
 
