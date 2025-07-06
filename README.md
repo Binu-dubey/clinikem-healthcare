@@ -1,4 +1,4 @@
-# 🏥 Clinikem Healthcare – Backend System
+## 🏥 Clinikem Healthcare – Backend System
 The Hospital Management System is a comprehensive web application designed to manage various aspects of hospital operations efficiently. Developed using Django, it provides functionalities for managing patient records, appointments, doctors, and administrative tasks while ensuring data security and accessibility.
 This repository contains the backend system for **Clinikem Healthcare**, developed using Django. The application manages the mapping between patients and doctors and provides secure APIs for accessing patient and doctor relationships.
 
@@ -20,7 +20,6 @@ This repository contains the backend system for **Clinikem Healthcare**, develop
 
 - CRUD operations for Patients, Doctors, and their mappings
 - Fetch all doctors mapped to a specific patient
-- Fetch all patients mapped to a specific doctor
 - Template-based dropdown mapping interface
 - REST API support with token-based authentication
 - Error handling and UUID validations
