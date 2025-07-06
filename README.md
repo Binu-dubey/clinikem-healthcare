@@ -54,8 +54,7 @@ This repository contains the backend system for **Clinikem Healthcare**, develop
 |----------------------------------------|--------|-----------------------------------------------|
 | `/api/mappings/`                       | GET    | List all patient-doctor mappings              |
 | `/api/mappings/`                       | POST   | Create a new mapping                          |
-| `/api/mappings/patient/<uuid>/`       | GET    | Get all doctors for a given patient UUID      |
-| `/api/mappings/doctor/<uuid>/`        | GET    | Get all patients for a given doctor UUID      |
+| `/api/mappings/patient/<uuid>/`       | GET    | Get all doctors for a given patient UUID       |
 | `/api/patients/`                       | GET    | List all patients                             |
 | `/api/doctors/`                        | GET    | List all doctors                              |
 
